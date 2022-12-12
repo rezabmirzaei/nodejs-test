@@ -1,4 +1,12 @@
 {
+  "name": "kyndryl_demo_simple_app",
+  "version": "1.0.0",
+  "description": "Kyndryl demo - simple app",
+  "author": "Reza Mirzaei <reza.mirzaei@kyndryl.com>",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "express": "^4.18.2"
   }
